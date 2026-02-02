@@ -71,7 +71,7 @@ After downloading:
 
 ## 📸 Dashboard Preview
 
-![IPL Dashboard](screenshots/dashboard.jpeg)
+![IPL Dashboard](screenshots/dashboard.peg.jpeg)
 
 
 
@@ -93,3 +93,4 @@ A demo video of the dashboard is available in the `demo` folder.
 Aspiring Data Analyst  
 
 Skills: Power BI | SQL | Python | Data Analysis
+
