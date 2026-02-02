@@ -1,4 +1,7 @@
 # 🏏 IPL Power BI Analysis (2008–2025)
+⭐ **If you find this project useful, consider giving it a star!**
+
+## 📌 Project Overview
 
 This project presents an **interactive Power BI dashboard** analyzing Indian Premier League (IPL) data from **2008 to 2025**.  
 It provides insights into teams, players, matches, runs, sixes, fours, centuries, venues, and overall tournament performance.
@@ -93,4 +96,5 @@ A demo video of the dashboard is available in the `demo` folder.
 Aspiring Data Analyst  
 
 Skills: Power BI | SQL | Python | Data Analysis
+
 
