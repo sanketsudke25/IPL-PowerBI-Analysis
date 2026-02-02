@@ -5,7 +5,7 @@ It provides insights into teams, players, matches, runs, sixes, fours, centuries
 
 The dashboard is designed for **easy understanding, storytelling, and data-driven insights**.
 
----
+
 
 ## 📊 Dashboard Highlights
 
@@ -17,7 +17,7 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 - Player Performance Analysis
 - Season-wise Insights (2008–2025)
 
----
+
 
 ## 🛠 Tools & Technologies Used
 
@@ -27,7 +27,7 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 - **CSV Datasets** – IPL historical data  
 - **GitHub** – Project hosting, version control, and documentation  
 
----
+
 
 ## 📁 Project Structure
 	IPL-PowerBI-Analysis
@@ -43,18 +43,21 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 ├── demo
 │   └── ipl_dashboard_demo.mp4
 
----
 
-## 📂 Dataset Description
 
-- **ball_by_ball_data.csv** – Ball-by-ball match details  
-- **ipl_matches_data.csv** – Match-level information  
-- **players-data-updated.csv** – Player statistics  
-- **teams_data.csv** – Team details  
+## 📂 Dataset
+Due to GitHub file size limitations, the IPL datasets are provided as a compressed ZIP file.
 
-> Dataset is shared in compressed format to handle GitHub size limitations.
+**File:** `dataset.zip`
 
----
+After downloading:
+1. Extract the ZIP file
+2. You will find the following CSV files:
+   - `ball_by_ball_data.csv`
+   - `ipl_matches_data.csv`
+   - `players-data-updated.csv`
+   - `teams_data.csv`
+
 
 ## ▶️ How to Use the Project
 
@@ -64,17 +67,18 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 4. If required, update dataset paths in **Power Query**  
 5. Refresh data to explore the dashboard  
 
----
+
 
 ## 📸 Dashboard Preview
 
 ![IPL Dashboard](screenshots/dashboard.jpeg)
 
----
+
 
 ## 🎥 Demo Video
 
 A demo video of the dashboard is available in the `demo` folder.
+
 
 ## 🚀 Key Learnings
 
@@ -87,4 +91,5 @@ A demo video of the dashboard is available in the `demo` folder.
 ## 🚀 Author
 *Sanket Sudke*  
 Aspiring Data Analyst  
+
 Skills: Power BI | SQL | Python | Data Analysis
