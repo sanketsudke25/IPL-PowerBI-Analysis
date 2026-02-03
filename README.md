@@ -1,7 +1,7 @@
-# 🏏 IPL Power BI Analysis (2008–2025)
-⭐ **If you find this project useful, consider giving it a star!**
+#  IPL Power BI Analysis (2008–2025)
+ **If you find this project useful, consider giving it a star!**
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an **interactive Power BI dashboard** analyzing Indian Premier League (IPL) data from **2008 to 2025**.  
 It provides insights into teams, players, matches, runs, sixes, fours, centuries, venues, and overall tournament performance.
@@ -10,7 +10,7 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 
 
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 - Total Seasons, Matches, Teams, and Venues
 - Champion Teams Overview
@@ -22,7 +22,7 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 
 
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Microsoft Power BI** – Dashboard creation & data visualization  
 - **DAX (Data Analysis Expressions)** – Calculated measures & KPIs  
@@ -32,7 +32,7 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 
 
 
-## 📁 Project Structure
+##  Project Structure
 	IPL-PowerBI-Analysis
 │
 ├── IPL_ANALYSIS_POWER_BI.pbix
@@ -48,7 +48,7 @@ The dashboard is designed for **easy understanding, storytelling, and data-drive
 
 
 
-## 📂 Dataset
+##  Dataset
 Due to GitHub file size limitations, the IPL datasets are provided as a compressed ZIP file.
 
 **File:** `dataset.zip`
@@ -62,7 +62,7 @@ After downloading:
    - `teams_data.csv`
 
 
-## ▶️ How to Use the Project
+##  How to Use the Project
 
 1. Download or clone the repository  
 2. Extract the dataset ZIP (if applicable)  
@@ -72,18 +72,18 @@ After downloading:
 
 
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![IPL Dashboard](screenshots/dashboard.peg.jpeg)
 
 
 
-## 🎥 Demo Video
+##  Demo Video
 
 A demo video of the dashboard is available in the `demo` folder.
 
 
-## 🚀 Key Learnings
+##  Key Learnings
 
 - Built end-to-end Power BI project  
 - Applied data modeling & DAX measures  
@@ -91,10 +91,11 @@ A demo video of the dashboard is available in the `demo` folder.
 - Learned GitHub project structuring & documentation  
 
 
-## 🚀 Author
+##  Author
 *Sanket Sudke*  
 Aspiring Data Analyst  
 
 Skills: Power BI | SQL | Python | Data Analysis
+
 
 
